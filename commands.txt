@@ -1,0 +1,10 @@
+git clone URL
+.gitignore
+git status
+git add .
+git commit
+git push
+git log
+git rm
+git branch
+git checkout
