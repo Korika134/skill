@@ -7,4 +7,5 @@ git push
 git log
 git rm
 git branch
-git checkout
+git checkout - откатывает до предыдущего коммита (пред.версия).
+т.е. отменяет последние изменения
